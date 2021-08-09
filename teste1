@@ -1,4 +1,0 @@
-git init
-def imprimirPi():
-  print( 3.14 )
-imprimirPi()
